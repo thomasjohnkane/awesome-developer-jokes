@@ -16,7 +16,7 @@ Any joke can be a one-liner with enough semicolons.
 - If doctors were like software engineers, they would say things like “Have you tried killing yourself and being reborn?”
 - “Debugging” is like being the detective in a crime drama where you are also the murderer.
 - Programming is like sex. One mistake and you have to support it for the rest of your life.
-- 1/3 of US bandwidth is used by Netflix. The rest is used be, `rm -rf node_modules && npm install`
+- 1/3 of US bandwidth is used by Netflix. The rest is used by `rm -rf node_modules && npm install`
 - There are three kinds of lies: Lies, damned lies, and benchmarks.
 
 ## Images
@@ -27,7 +27,7 @@ Here is a selection of funny images
 [![Arguments](https://cdn-images-1.medium.com/max/1600/1*jdbZH4jl7CteKX5Jru_HpA.jpeg)](https://www.google.com/search?q=1-2+arguments+expected,+0+given+joke&source=lnms&tbm=isch&sa=X&ved=0ahUKEwja7rTwnaXgAhWGK7kGHVL_CpwQ_AUIDygC&biw=1280&bih=667)
 
 ### Stories
-
+- TODO
 
 ## Contribute
 
@@ -40,3 +40,9 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 To the extent possible under law, Thomas Kane has waived all copyright and
 related or neighboring rights to this work.
+
+## Sponsors
+<a href="https://fluxbucket.com">
+    <img src="http://fluxbucket.com/app/uploads/2016/09/FluxBucketLogo_Final_2x-300x130.png" />
+</a>
+
